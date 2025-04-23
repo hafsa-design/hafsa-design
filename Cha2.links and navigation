@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mohabbatein - The Film</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+      <a href="#overview">Overview</a>
+      <a href="#info">Key Info</a>
+      <a href="#cast">Cast & Creative Team</a>
+      <a href="#characters">Characters</a>
+      <a href="#reviews">Reviews</a>
+      <a class="btn" href="https://www.yashrajfilms.com/movies/mohabbatein" target="_blank">Official Website</a>
+    </nav>
+
+  <!-- Content Sections -->
+  <section id="overview" class="section">
+    <h2>Overview</h2>
+    <p>
+      *Mohabbatein* is a 2000 Indian Hindi-language romantic drama film directed by Aditya Chopra and produced by Yash Chopra.
+      It tells the story of a strict headmaster whose world is disrupted by a new music teacher who believes in the power of love.
+      The clash between tradition and rebellion forms the emotional core of the film.
+    </p>
+  </section>
+
+  <section id="info" class="section">
+    <h2>Key Information</h2>
+    <ul>
+      <li>Release Date: October 27, 2000</li>
+      <li>Director: Aditya Chopra</li>
+      <li>Producer: Yash Chopra</li>
+      <li>Genre: Romance / Drama</li>
+      <li>Language: Hindi</li>
+    </ul>
+  </section>
+
+  <section id="cast" class="section">
+    <h2>Cast & Creative Team</h2>
+    <p>
+      <strong>Cast:</strong> Amitabh Bachchan, Shah Rukh Khan, Aishwarya Rai, Uday Chopra, Jugal Hansraj, Jimmy Shergill, Kim Sharma, Shamita Shetty, Preeti Jhangiani<br/>
+      <strong>Director:</strong> Aditya Chopra<br/>
+      <strong>Music:</strong> Jatin-Lalit
+    </p>
+  </section>
+
+  <section id="characters" class="section">
+    <h2>Characters</h2>
+    <ul>
+      <li>Narayan Shankar (Amitabh Bachchan): The traditionalist headmaster of Gurukul.</li>
+      <li>Raj Aryan Malhotra (Shah Rukh Khan): A music teacher who believes in love and challenges Narayan rules.</li>
+      <li>Meghna (Aishwarya Rai): Raj lost love, appearing as a spirit in flashbacks.</li>
+      <li>Sameer, Vicky, and Karan: Young students who fall in love and are inspired by Raj.</li>
+    </ul>
+  </section>
+
+  <section id="reviews" class="section">
+    <h2>Reviews</h2>
+    <p>
+      *Mohabbatein* was praised for its performances, emotional depth, and musical score. It became one of the highest-grossing films of 2000 in India.
+      Critics noted its strong central performances by Shah Rukh Khan and Amitabh Bachchan, and the vibrant romantic energy brought by the ensemble cast.
+    </p>
+  </section>
+
+</body>
+</html>
