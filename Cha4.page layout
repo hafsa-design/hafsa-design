@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Collection</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Header Section -->
+  <header>
+    <div class="logo-container">
+      <h1>Book Collection</h1>
+    </div>
+  </header>
+
+  <!-- Navigation Section -->
+  <nav>
+    <ul>
+      <li><a href="#welcome">Welcome</a></li>
+      <li><a href="#lineup">Line Up</a></li>
+      <li><a href="#footer">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- Main Content Section -->
+  <main>
+    <!-- Welcome Section -->
+    <section id="welcome">
+      <h2>Welcome to the Book Collection</h2>
+      <p>Explore a curated collection of must-read books from various genres. Whether you're into fiction, non-fiction, or exploring new perspectives, our collection has something for everyone. Join us as we dive into the world of literature!</p>
+    </section>
+
+    <!-- Line Up Section -->
+    <section id="lineup">
+      <h2>Featured Books</h2>
+      <div class="lineup-images">
+        <div class="image-box">
+          <img src="https://via.placeholder.com/300" alt="Book Cover 1">
+        </div>
+        <div class="image-box">
+          <img src="https://via.placeholder.com/300" alt="Book Cover 2">
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer Section -->
+  <footer id="footer">
+    <p>&copy; 2025 Book Collection | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
