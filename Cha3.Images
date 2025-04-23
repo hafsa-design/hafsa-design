@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tranquil Nature Landscapes</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <h1>Tranquil Nature Landscapes</h1>
+
+  <!-- Image 1: Mountain Lake at Sunrise -->
+  <div class="image-card">
+    <img 
+      src="images/mountain-lake.jpg" 
+      alt="A tranquil mountain lake at sunrise with clear reflections of the surrounding mountains." 
+      width="600" height="400"
+      title="Mountain Lake at Sunrise"
+      class="styled-img"
+    />
+    <p class="license">Photo by <a href="https://unsplash.com" target="_blank">Unsplash</a>. Free for commercial use. No attribution required.</p>
+  </div>
+
+  <!-- Image 2: Forest Path in Morning Light -->
+  <div class="image-card">
+    <img 
+      src="images/forest-path.jpg" 
+      alt="A peaceful forest path lit by the soft glow of morning sunlight filtering through the trees." 
+      width="600" height="400"
+      title="Forest Path in Morning Light"
+      class="styled-img"
+    />
+    <p class="license">Photo by <a href="https://pexels.com" target="_blank">Pexels</a>. Free for commercial use. No attribution required.</p>
+  </div>
+
+  <!-- Image 3: River Flowing Through Meadow -->
+  <div class="image-card">
+    <img 
+      src="images/river-meadow.jpg" 
+      alt="A serene river flowing gently through a lush green meadow under a clear sky." 
+      width="600" height="400"
+      title="River Flowing Through Meadow"
+      class="styled-img"
+    />
+    <p class="license">Photo by <a href="https://unsplash.com" target="_blank">Unsplash</a>. Free for commercial use. No attribution required.</p>
+  </div>
+
+</body>
+</html>
